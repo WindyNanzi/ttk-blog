@@ -22,7 +22,6 @@ cta:
 Welcome~
 
 #support
----
   ::terminal
   ---
   content:
